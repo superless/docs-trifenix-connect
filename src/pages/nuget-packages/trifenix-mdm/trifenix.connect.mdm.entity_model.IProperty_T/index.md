@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.entity_model.IProperty`1
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 IProperty_T
@@ -25,6 +26,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 index
@@ -32,6 +34,7 @@ index
 
 Índice de una propiedad
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 value

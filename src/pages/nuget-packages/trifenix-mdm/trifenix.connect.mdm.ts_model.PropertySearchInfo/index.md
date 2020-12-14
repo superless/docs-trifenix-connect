@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.ts_model.PropertySearchInfo
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 PropertySearchInfo
@@ -25,6 +26,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Index
@@ -32,6 +34,7 @@ Index
 
 Índice de la propiedad.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Related
@@ -39,6 +42,7 @@ Related
 
 tipo de propiedad.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 RelatedEntity
@@ -46,6 +50,7 @@ RelatedEntity
 
 tipo de propiedad.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Name
@@ -53,6 +58,7 @@ Name
 
 Nombre de la propiedad
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 IndexClass
@@ -60,6 +66,7 @@ IndexClass
 
 índice de la clase a la que pertenece la propiedad.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Enums
@@ -67,6 +74,7 @@ Enums
 
 Valores de una enumeración, el número y la descripción.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 IsEnumerable
@@ -74,6 +82,7 @@ IsEnumerable
 
 índica si es un enumerable o no.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 IsRequired
@@ -81,6 +90,7 @@ IsRequired
 
 Es requerido.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 IsUnique
@@ -88,6 +98,7 @@ IsUnique
 
 Es único.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Info
@@ -95,6 +106,7 @@ Info
 
 descripción de la propiedad
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Visible
@@ -102,6 +114,7 @@ Visible
 
 Si la propiedad es visible.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 AutoNumeric
@@ -109,6 +122,7 @@ AutoNumeric
 
 Si es un autonumérico.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 HasInput
@@ -116,6 +130,7 @@ HasInput
 
 Determina si tiene entrada (Existe una clase con esa propiedad en el namespace de entradas).
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 MaxLength
@@ -123,6 +138,7 @@ MaxLength
 
 Ancho máximo de la propiedad.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 MinLength
@@ -130,6 +146,7 @@ MinLength
 
 Ancho Mínimo de la propiedad.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Group

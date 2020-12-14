@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.ts_model.GroupMenu
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 GroupMenu
@@ -26,6 +27,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 MenuIndex
@@ -33,6 +35,7 @@ MenuIndex
 
 índice que corresponde al menú.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Device
@@ -40,6 +43,7 @@ Device
 
 Tipo de dispositivo donde se aplicaría el menú.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 SubMenuIndex

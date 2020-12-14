@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.ts_model.EntitySearchDisplayInfo
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 EntitySearchDisplayInfo
@@ -25,6 +26,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Title
@@ -32,6 +34,7 @@ Title
 
 Título
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 ShortName
@@ -39,6 +42,7 @@ ShortName
 
 Nombre Resumen
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Description
@@ -46,6 +50,7 @@ Description
 
 Descripción
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Column

@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.containers.ExtPostContainer`1
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 ExtPostContainer_T
@@ -25,6 +26,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 MessageResult
@@ -32,6 +34,7 @@ MessageResult
 
 Mensaje con el resultado
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Message
@@ -39,6 +42,7 @@ Message
 
 Mensaje de error si existiese
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Result
@@ -46,6 +50,7 @@ Result
 
 Resultado del envío.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 IdRelated

@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.containers.ExtPostErrorContainer`1
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 ExtPostErrorContainer_T
@@ -25,6 +26,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 InternalException
@@ -32,6 +34,7 @@ InternalException
 
 Excepción encontrada.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 ValidationMessages
@@ -39,6 +42,7 @@ ValidationMessages
 
 Mensajes de Validación o mas bien de error.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 GetBase
@@ -47,6 +51,7 @@ GetBase
 ExtPostContainer con los campos de este tipo
 ## Constantes
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 _validationMessages

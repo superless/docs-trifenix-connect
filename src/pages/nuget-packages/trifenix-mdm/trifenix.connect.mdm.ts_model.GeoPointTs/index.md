@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.ts_model.GeoPointTs
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 GeoPointTs
@@ -25,6 +26,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 latitude
@@ -32,6 +34,7 @@ latitude
 
 latitud
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 longitude

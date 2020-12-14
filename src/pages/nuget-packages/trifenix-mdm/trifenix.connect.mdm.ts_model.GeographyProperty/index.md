@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.ts_model.GeographyProperty
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 GeographyProperty
@@ -26,6 +27,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 index
@@ -33,6 +35,7 @@ index
 
 índice de la propiedad de tipo geo
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 value

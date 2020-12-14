@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.containers.ExtGetContainer`1
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 ExtGetContainer_T
@@ -25,6 +26,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 StatusResult
@@ -33,6 +35,7 @@ StatusResult
 Status del resultado
 Error, Success o emptyResults
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Result
@@ -40,6 +43,7 @@ Result
 
 Elemento a recuperar
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 ErrorMessage

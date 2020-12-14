@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.ts_model.FilterModel
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 FilterModel
@@ -25,6 +26,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 FilterStr
@@ -33,6 +35,7 @@ FilterStr
 Filtro de tipo string
 grupo de filtros agrupados por indice de cada propiedad a filtrar.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 FilterEntity
@@ -40,6 +43,7 @@ FilterEntity
 
 filtro de tipo entidad
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 EnumFilter
@@ -47,6 +51,7 @@ EnumFilter
 
 fitro de tipo enumeración.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 LongFilter
@@ -54,6 +59,7 @@ LongFilter
 
 filtro de tipo long.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 NumFilter
@@ -61,6 +67,7 @@ NumFilter
 
 filtro de tipo número.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 BoolFilters
@@ -68,6 +75,7 @@ BoolFilters
 
 filtro de tipo bool
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 DateFilters
@@ -75,6 +83,7 @@ DateFilters
 
 filtro de tipo date
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 DoubleFilters
