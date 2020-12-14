@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.entity_model.IBoolProperty
 
 
 
-# IBoolProperty
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+IBoolProperty
+```
 
 ## Descripción
 Una propiedad booleana

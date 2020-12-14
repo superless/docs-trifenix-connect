@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.ts_model.FilterGlobalEntityInput
 
 
 
-# FilterGlobalEntityInput
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+FilterGlobalEntityInput
+```
 
 ## Descripción
 Filtro global seleccionado, contenedor de filtro global, en una aplicación antes de hacer consultas se preguntará por los filtros globales.
@@ -29,11 +33,26 @@ no existen funciones
 
 ## Propiedades
 
-### indexMain
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+indexMain
+```
+
 Indice de una entidad a filtrar
-### EntitiesSelected
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+EntitiesSelected
+```
+
 Identificador de los elementos seleccionados si es el padre y los ids que dependen del filtro principal para el hijo.
-### FilterChilds
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+FilterChilds
+```
+
 Filtro global Recursivo, si existen propiedades que dependan
 del filtro principal, por ejemplo si un filtro global fuera el año agricola,
 no todas las consultas tendran acceso a la entidad season directamente.

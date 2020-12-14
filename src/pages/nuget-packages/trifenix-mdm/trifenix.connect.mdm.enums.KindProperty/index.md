@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.enums.KindProperty
 
 
 
-# KindProperty
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+KindProperty
+```
 
 ## Descripción
 Tipos de propiedades soportadas por el modelo.

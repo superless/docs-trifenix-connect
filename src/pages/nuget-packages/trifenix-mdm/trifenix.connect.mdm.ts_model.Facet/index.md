@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.ts_model.Facet
 
 
 
-# Facet
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Facet
+```
 
 ## Descripción
 Facet, o agrupación de busqueda, es un groupby por categoria inserto en una busqueda.
@@ -20,14 +24,34 @@ no existen funciones
 
 ## Propiedades
 
-### Index
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Index
+```
+
 índice de la entidad del facet.
-### Title
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Title
+```
+
 Título del facet, este valor se va a buscar con el valor.
 el titulo se determina con el indice de la propiedad que representaria el nombre de la entidad
-### Value
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Value
+```
+
 valor del facet, normalmente el identificador de una entidad.
-### Count
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Count
+```
+
 Número de elementos encontrados, por cada tipo de count.
 ## Constantes
 no existen campos

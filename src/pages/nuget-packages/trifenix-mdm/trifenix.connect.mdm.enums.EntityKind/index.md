@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.enums.EntityKind
 
 
 
-# EntityKind
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+EntityKind
+```
 
 ## Descripción
 Determina el tipo de entidad,

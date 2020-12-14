@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.ts_model.GeoPointTs
 
 
 
-# GeoPointTs
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+GeoPointTs
+```
 
 ## Descripción
 Tipo de dato para geolocalización que será usado en el cliente.
@@ -20,9 +24,19 @@ no existen funciones
 
 ## Propiedades
 
-### latitude
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+latitude
+```
+
 latitud
-### longitude
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+longitude
+```
+
 longitud
 ## Constantes
 no existen campos

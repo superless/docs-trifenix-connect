@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.entity_model.BoolBaseProperty
 
 
 
-# BoolBaseProperty
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+BoolBaseProperty
+```
 
 ## Descripción
 Implementación para tests.
@@ -20,8 +24,27 @@ no existen funciones
 
 ## Propiedades
 
-no existen propidades
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+index
+```
 
+índice de la propiedad
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+value
+```
+
+valor de la propiedad
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+facet
+```
+
+facet de la propiedad
 ## Constantes
 no existen campos
 

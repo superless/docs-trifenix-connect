@@ -1,11 +1,15 @@
 ---
-title : ExtPostErrorContainer_T
+title : ExtPostErrorContainer<T>
 description: trifenix.connect.mdm.containers.ExtPostErrorContainer`1
 ---
 
 
 
-# ExtPostErrorContainer_T
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+ExtPostErrorContainer_T
+```
 
 ## Descripción
 Envia un Contenedor con detalles del error
@@ -20,12 +24,32 @@ no existen funciones
 
 ## Propiedades
 
-### InternalException
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+InternalException
+```
+
 Excepción encontrada.
-### ValidationMessages
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+ValidationMessages
+```
+
 Mensajes de Validación o mas bien de error.
-### GetBase
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+GetBase
+```
+
 ExtPostContainer con los campos de este tipo
 ## Constantes
-### _validationMessages
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+_validationMessages
+```
+
 Mensajes de validación.

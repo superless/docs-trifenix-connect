@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.ts_model.GroupInput
 
 
 
-# GroupInput
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+GroupInput
+```
 
 ## Descripción
 Agrupación de propiedades, usadas en el cliente
@@ -20,13 +24,33 @@ no existen funciones
 
 ## Propiedades
 
-### OrderIndex
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+OrderIndex
+```
+
 índice usado para ordenar los grupos de propiedades
-### Title
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Title
+```
+
 título del grupo, puede ser vacio.
-### Device
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Device
+```
+
 Tipo de Dispositivo
-### ColumnProportion
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+ColumnProportion
+```
+
 Proporción de columna, usada para determinar su posición.
 se usa en base 12, es decir 12 es el ancho total.
 ## Constantes

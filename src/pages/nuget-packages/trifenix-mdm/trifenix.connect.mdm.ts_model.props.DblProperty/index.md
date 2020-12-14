@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.ts_model.props.DblProperty
 
 
 
-# DblProperty
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+DblProperty
+```
 
 ## Descripción
 implementación para typegen.

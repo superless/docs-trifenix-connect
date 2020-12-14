@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.validation_attributes.ReferenceAttribute
 
 
 
-# ReferenceAttribute
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+ReferenceAttribute
+```
 
 ## Descripción
 Atributo que declara una referencia
@@ -14,7 +18,12 @@ asignando el identificador de este
 Este atributo es utilizado para determinar si existe el elemento en la base de datos.
 ## Constructores
 
-### #ctor(_entityOfReference)
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+#ctor(_entityOfReference)
+```
+
 Constructor con el tipo de entidad a la que se refiere el id
 ### Parametros
 | Nombre | Tipo | Descripción |
@@ -30,5 +39,10 @@ no existen funciones
 no existen propidades
 
 ## Constantes
-### entityOfReference
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+entityOfReference
+```
+
 Tipo de la entidad de referencia

@@ -1,6 +1,6 @@
 ---
-title : mdm_attributes
-description: trifenix.connect.mdm_attributes
+title : entity_model
+description: trifenix.connect.entity_model
 ---
 
 

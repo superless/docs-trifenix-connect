@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.entity_model.IStrProperty
 
 
 
-# IStrProperty
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+IStrProperty
+```
 
 ## Descripción
 propiedad string.

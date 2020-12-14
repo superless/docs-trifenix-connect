@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.ts_model.ModelMetaData
 
 
 
-# ModelMetaData
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+ModelMetaData
+```
 
 ## Descripción
 Metadata completo del modelo.
@@ -20,7 +24,12 @@ no existen funciones
 
 ## Propiedades
 
-### Indexes
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Indexes
+```
+
 Coleccion de metadata de cada entidad del modelo
 ## Constantes
 no existen campos

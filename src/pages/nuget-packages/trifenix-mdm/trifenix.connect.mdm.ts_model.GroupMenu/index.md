@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.ts_model.GroupMenu
 
 
 
-# GroupMenu
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+GroupMenu
+```
 
 ## Descripción
 Generación de menús en base a entidades.
@@ -21,11 +25,26 @@ no existen funciones
 
 ## Propiedades
 
-### MenuIndex
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+MenuIndex
+```
+
 índice que corresponde al menú.
-### Device
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Device
+```
+
 Tipo de dispositivo donde se aplicaría el menú.
-### SubMenuIndex
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+SubMenuIndex
+```
+
 índice que identifica un submenú.
 ## Constantes
 no existen campos

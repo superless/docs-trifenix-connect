@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.entity_model.INum32Property
 
 
 
-# INum32Property
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+INum32Property
+```
 
 ## Descripción
 una propiedad de tipo entero

@@ -1,11 +1,15 @@
 ---
-title : ExtPostContainer_T
+title : ExtPostContainer<T>
 description: trifenix.connect.mdm.containers.ExtPostContainer`1
 ---
 
 
 
-# ExtPostContainer_T
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+ExtPostContainer_T
+```
 
 ## Descripción
 Envía de regreso las operaciones de tipo Post.
@@ -20,13 +24,33 @@ no existen funciones
 
 ## Propiedades
 
-### MessageResult
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+MessageResult
+```
+
 Mensaje con el resultado
-### Message
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Message
+```
+
 Mensaje de error si existiese
-### Result
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Result
+```
+
 Resultado del envío.
-### IdRelated
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+IdRelated
+```
+
 Identificador del elemento relacionado en el post
 ## Constantes
 no existen campos

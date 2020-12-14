@@ -1,11 +1,15 @@
 ---
-title : EntityBaseSearch_T
+title : EntityBaseSearch<T>
 description: trifenix.connect.mdm.entity_model.EntityBaseSearch`1
 ---
 
 
 
-# EntityBaseSearch_T
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+EntityBaseSearch_T
+```
 
 ## Descripción
 Clase generada automáticamente desde una entidad de base de datos o cualquier clase.
@@ -21,33 +25,98 @@ no existen funciones
 
 ## Propiedades
 
-### id
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+id
+```
+
 identificador de un entitySearch
-### created
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+created
+```
+
 Fecha de creación del elemento.
-### index
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+index
+```
+
 índice de la entidad, la que identifica como elemento.
 un índice viene de un diccionario que enlaza con la clase que corresponda
 a través de atributos.
-### bl
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+bl
+```
+
 Todas las propiedades booleanas, quedarán en esta colección.
-### dbl
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+dbl
+```
+
 Colección de propiedades de tipo double
-### dt
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+dt
+```
+
 colección de propiedades de tipo fecha.
-### enm
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+enm
+```
+
 Colección de propiedades de tipo enumeración.
-### num32
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+num32
+```
+
 Colección de propiedades de tipo num32.
-### num64
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+num64
+```
+
 Colección de propiedades de tipo num64.
-### rel
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+rel
+```
+
 Colección de propiedades de tipo relación.
-### str
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+str
+```
+
 Colección de propiedades de tipo string.
-### sug
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+sug
+```
+
 Colección de propiedades de tipo suggest.
-### geo
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+geo
+```
+
 Colección de propiedades de tipo geo,
 el tipo Geo esta determinado por el tipo que se asigne al objeto.
 ## Constantes

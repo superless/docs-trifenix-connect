@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.entity_model.INum64Property
 
 
 
-# INum64Property
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+INum64Property
+```
 
 ## Descripción
 una propiedad de tipo long

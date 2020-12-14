@@ -1,11 +1,15 @@
 ---
-title : FilterBase_T
+title : FilterBase<T>
 description: trifenix.connect.mdm.ts_model.FilterBase`1
 ---
 
 
 
-# FilterBase_T
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+FilterBase_T
+```
 
 ## Descripción
 Filtro para cada tipo de valor.
@@ -20,9 +24,19 @@ no existen funciones
 
 ## Propiedades
 
-### FilterType
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+FilterType
+```
+
 Tipo de filtro
-### Value
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Value
+```
+
 valor a filtrar
 ## Constantes
 no existen campos

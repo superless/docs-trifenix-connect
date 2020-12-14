@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.enums.KindEntityProperty
 
 
 
-# KindEntityProperty
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+KindEntityProperty
+```
 
 ## Descripción
 Determina si una entidad es local, es decir no tiene key value en una base de datos documental
@@ -24,7 +28,17 @@ no existen funciones
 no existen propidades
 
 ## Constantes
-### REFERENCE
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+REFERENCE
+```
+
 Referecia a una entidad de la base de datos
-### LOCAL_REFERENCE
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+LOCAL_REFERENCE
+```
+
 Referecia a una entidad local, es decir que es parte del objeto

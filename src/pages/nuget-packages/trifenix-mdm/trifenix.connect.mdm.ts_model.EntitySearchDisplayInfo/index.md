@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.ts_model.EntitySearchDisplayInfo
 
 
 
-# EntitySearchDisplayInfo
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+EntitySearchDisplayInfo
+```
 
 ## Descripción
 Descripción de una propiedad.
@@ -20,13 +24,33 @@ no existen funciones
 
 ## Propiedades
 
-### Title
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Title
+```
+
 Título
-### ShortName
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+ShortName
+```
+
 Nombre Resumen
-### Description
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Description
+```
+
 Descripción
-### Column
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Column
+```
+
 Valor de Columna
 ## Constantes
 no existen campos

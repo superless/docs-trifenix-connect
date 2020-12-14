@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.ts_model.OrderItem
 
 
 
-# OrderItem
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+OrderItem
+```
 
 ## Descripción
 Item de Ordernamiento, permite ordenar una consulta.
@@ -20,11 +24,26 @@ no existen funciones
 
 ## Propiedades
 
-### Desc
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Desc
+```
+
 Ascendente o descendente.
-### KindProperty
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+KindProperty
+```
+
 Tipo de propiedad
-### PropertyIndex
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+PropertyIndex
+```
+
 Indice de la propiedad
 ## Constantes
 no existen campos

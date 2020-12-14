@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.ts_model.PropertySearchInfo
 
 
 
-# PropertySearchInfo
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+PropertySearchInfo
+```
 
 ## Descripción
 Información de una propiedad
@@ -20,37 +24,117 @@ no existen funciones
 
 ## Propiedades
 
-### Index
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Index
+```
+
 Índice de la propiedad.
-### Related
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Related
+```
+
 tipo de propiedad.
-### RelatedEntity
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+RelatedEntity
+```
+
 tipo de propiedad.
-### Name
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Name
+```
+
 Nombre de la propiedad
-### IndexClass
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+IndexClass
+```
+
 índice de la clase a la que pertenece la propiedad.
-### Enums
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Enums
+```
+
 Valores de una enumeración, el número y la descripción.
-### IsEnumerable
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+IsEnumerable
+```
+
 índica si es un enumerable o no.
-### IsRequired
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+IsRequired
+```
+
 Es requerido.
-### IsUnique
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+IsUnique
+```
+
 Es único.
-### Info
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Info
+```
+
 descripción de la propiedad
-### Visible
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Visible
+```
+
 Si la propiedad es visible.
-### AutoNumeric
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+AutoNumeric
+```
+
 Si es un autonumérico.
-### HasInput
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+HasInput
+```
+
 Determina si tiene entrada (Existe una clase con esa propiedad en el namespace de entradas).
-### MaxLength
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+MaxLength
+```
+
 Ancho máximo de la propiedad.
-### MinLength
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+MinLength
+```
+
 Ancho Mínimo de la propiedad.
-### Group
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Group
+```
+
 Grupo al que pertenece.
 ## Constantes
 no existen campos

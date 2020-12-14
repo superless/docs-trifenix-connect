@@ -1,11 +1,15 @@
 ---
-title : ExtGetContainer_T
+title : ExtGetContainer<T>
 description: trifenix.connect.mdm.containers.ExtGetContainer`1
 ---
 
 
 
-# ExtGetContainer_T
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+ExtGetContainer_T
+```
 
 ## Descripción
 Contenedor para respuestas get
@@ -20,12 +24,27 @@ no existen funciones
 
 ## Propiedades
 
-### StatusResult
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+StatusResult
+```
+
 Status del resultado
 Error, Success o emptyResults
-### Result
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+Result
+```
+
 Elemento a recuperar
-### ErrorMessage
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+ErrorMessage
+```
+
 mensaje de error, si existe.
 ## Constantes
 no existen campos

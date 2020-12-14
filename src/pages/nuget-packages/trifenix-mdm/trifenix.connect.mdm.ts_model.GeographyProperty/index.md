@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.ts_model.GeographyProperty
 
 
 
-# GeographyProperty
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+GeographyProperty
+```
 
 ## Descripción
 Clase de tipo geo, que será generada como componente typescript
@@ -21,9 +25,19 @@ no existen funciones
 
 ## Propiedades
 
-### index
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+index
+```
+
 índice de la propiedad de tipo geo
-### value
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+value
+```
+
 valor de la propiedad de tipo geo.
 ## Constantes
 no existen campos

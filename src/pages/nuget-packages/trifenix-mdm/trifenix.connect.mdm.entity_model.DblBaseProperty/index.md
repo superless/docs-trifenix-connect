@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.entity_model.DblBaseProperty
 
 
 
-# DblBaseProperty
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+DblBaseProperty
+```
 
 ## Descripción
 implementación para typegen.

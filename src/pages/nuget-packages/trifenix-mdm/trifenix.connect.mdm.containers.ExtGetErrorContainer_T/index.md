@@ -1,11 +1,15 @@
 ---
-title : ExtGetErrorContainer_T
+title : ExtGetErrorContainer<T>
 description: trifenix.connect.mdm.containers.ExtGetErrorContainer`1
 ---
 
 
 
-# ExtGetErrorContainer_T
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+ExtGetErrorContainer_T
+```
 
 ## Descripción
 Contenedor para respuestas Get cuando retorna un error
@@ -20,9 +24,19 @@ no existen funciones
 
 ## Propiedades
 
-### InternalException
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+InternalException
+```
+
 Excepción capturada.
-### GetBase
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+GetBase
+```
+
 Obtiene el error que debe mostrar al usuario final, es decir la misma, pero sin la excepción interna.
 ## Constantes
 no existen campos

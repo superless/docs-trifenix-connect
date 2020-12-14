@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.ts_model.FilterModel
 
 
 
-# FilterModel
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+FilterModel
+```
 
 ## Descripción
 Colección de filtros que aplican a una consulta
@@ -20,22 +24,62 @@ no existen funciones
 
 ## Propiedades
 
-### FilterStr
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+FilterStr
+```
+
 Filtro de tipo string
 grupo de filtros agrupados por indice de cada propiedad a filtrar.
-### FilterEntity
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+FilterEntity
+```
+
 filtro de tipo entidad
-### EnumFilter
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+EnumFilter
+```
+
 fitro de tipo enumeración.
-### LongFilter
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+LongFilter
+```
+
 filtro de tipo long.
-### NumFilter
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+NumFilter
+```
+
 filtro de tipo número.
-### BoolFilters
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+BoolFilters
+```
+
 filtro de tipo bool
-### DateFilters
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+DateFilters
+```
+
 filtro de tipo date
-### DoubleFilters
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+DoubleFilters
+```
+
 filtro de tipo double.
 ## Constantes
 no existen campos

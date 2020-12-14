@@ -5,7 +5,11 @@ description: trifenix.connect.mdm.entity_model.IPropertyFaceTable
 
 
 
-# IPropertyFaceTable
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+IPropertyFaceTable
+```
 
 ## Descripción
 Interfaz para entidades que implementen un facet de busqueda.
@@ -20,7 +24,12 @@ no existen funciones
 
 ## Propiedades
 
-### facet
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+#### Clase
+```
+facet
+```
+
 facet de la entidad.
 el facet se genera desde el index y el id, quedando = index,id
 por ejemplo,
