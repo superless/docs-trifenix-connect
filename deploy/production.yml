@@ -9,6 +9,10 @@ trigger:
 pool:
   vmImage: 'ubuntu-latest'
 
+variables:
+- name: one
+  value: initialValue
+
 steps:
   # instalando nodejs
   - task: NodeTool@0
@@ -19,15 +23,38 @@ steps:
   - script: |   
       npm install -g gatsby-cli
     displayName: 'instalando gatsby'
+  
+  - task: Npm@1
+    inputs:
+      command: 'install'
+      customRegistry: 'useFeed'
+      customFeed: '$(default-feed)'
+  
+  - script: |
+      gatsby build
+    displayName: "gatsby build"
+    env:
+      REPO_NAME: $(REPO_NAME)
+      REPO_OWNER: $(REPO_OWNER) 
+  
+      
+  # copiando archivos a salida
+  - task: CopyFiles@2
+    inputs:
+      SourceFolder: '$(Build.SourcesDirectory)/public'
+      Contents: '**'
+      TargetFolder: $(Build.ArtifactStagingDirectory)
+      CleanTargetFolder: true
+  #fin copiando archivos a salida
 
-  - task: Bash@3
-      inputs:
-        targetType: 'inline'
-        script: 'npm install'
-        workingDirectory: '$(Build.SourcesDirectory)'
-      displayName: 'npm install'
+  #publicando artifacts
+  - task: PublishBuildArtifacts@1
+    inputs:
+      PathtoPublish: $(Build.ArtifactStagingDirectory)
+      ArtifactName: 'drop'
+      publishLocation: 'container'
+  #fin publicando artifacts
 
-  - 
   
 
 
