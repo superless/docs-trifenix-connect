@@ -18,4 +18,5 @@ Tiene los principales atributos para la identificación de una propiedad de un e
 * **visible**, determina si el campo es o no visible en el modelo entitySearch.
 * **isEntity**, determina si la propiedad representa una entidad, es es una entidad la propiedad tendrá el identificador y el índice de esta.
 * **kindIndex**, determina el tipo de índice
+Los atributos son considerados metadata y traspasados a typescript
 
