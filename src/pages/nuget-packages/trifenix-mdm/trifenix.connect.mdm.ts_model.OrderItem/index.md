@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.ts_model.OrderItem
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 OrderItem
@@ -25,6 +26,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Desc
@@ -32,6 +34,7 @@ Desc
 
 Ascendente o descendente.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 KindProperty
@@ -39,6 +42,7 @@ KindProperty
 
 Tipo de propiedad
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 PropertyIndex

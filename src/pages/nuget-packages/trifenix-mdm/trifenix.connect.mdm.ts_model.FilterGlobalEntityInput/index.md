@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.ts_model.FilterGlobalEntityInput
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 FilterGlobalEntityInput
@@ -34,6 +35,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 indexMain
@@ -41,6 +43,7 @@ indexMain
 
 Indice de una entidad a filtrar
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 EntitiesSelected
@@ -48,6 +51,7 @@ EntitiesSelected
 
 Identificador de los elementos seleccionados si es el padre y los ids que dependen del filtro principal para el hijo.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 FilterChilds

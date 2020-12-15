@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.entity_model.IEntitySearch`1
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 IEntitySearch_T
@@ -34,6 +35,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 id
@@ -41,6 +43,7 @@ id
 
 Identificador único de cualquier entidad del modelo, generalmente un guid.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 created
@@ -48,6 +51,7 @@ created
 
 Fecha de creación del elemento
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 index
@@ -55,6 +59,7 @@ index
 
 El índice que identifica la entidad, por ejemplo 1 = Persona.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 bl
@@ -62,6 +67,7 @@ bl
 
 diccionario de valores de tipo booleano.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 dbl
@@ -69,6 +75,7 @@ dbl
 
 diccionario de valores de tipo double.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 dt
@@ -76,6 +83,7 @@ dt
 
 diccionario de valor de tipo date
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 enm
@@ -83,6 +91,7 @@ enm
 
 diccionario de valores de tipo enum.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 num32
@@ -90,6 +99,7 @@ num32
 
 diccionario de valores de tipo número
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 num64
@@ -97,6 +107,7 @@ num64
 
 diccionario de valores de tipo long
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 rel
@@ -105,6 +116,7 @@ rel
 diccionario de valores de tipo relación
 en elemento se podrá relacionar 1 a 1 o 1 a muchos a través de esta propiedad.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 str
@@ -112,6 +124,7 @@ str
 
 diccionario de valores tipo string.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 sug
@@ -119,6 +132,7 @@ sug
 
 diccionario de valores de tipo string que serán usados para autocompletar o sugerencias mientras busca.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 geo
@@ -127,6 +141,7 @@ geo
 Identifica una propiedad de tipo geo, la cual podrá determinar la ubicación geográfica de un elemento
 El tipo será según el motor de busqueda.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 hm
@@ -134,6 +149,7 @@ hm
 
 hash de la base de datos que representa el modelo.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 hh

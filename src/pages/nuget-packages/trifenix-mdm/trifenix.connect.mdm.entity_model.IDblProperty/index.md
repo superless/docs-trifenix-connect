@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.entity_model.IDblProperty
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 IDblProperty

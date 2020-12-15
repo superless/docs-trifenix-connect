@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.ts_model.FilterBase`1
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 FilterBase_T
@@ -25,6 +26,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 FilterType
@@ -32,6 +34,7 @@ FilterType
 
 Tipo de filtro
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Value

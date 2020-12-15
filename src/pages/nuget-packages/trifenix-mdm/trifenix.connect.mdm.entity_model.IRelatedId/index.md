@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.entity_model.IRelatedId
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 IRelatedId
@@ -25,6 +26,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 index
@@ -32,6 +34,7 @@ index
 
 índice de la entidad
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 id

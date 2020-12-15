@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.entity_model.IDtProperty
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 IDtProperty

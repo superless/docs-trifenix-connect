@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.enums.ExtGetDataResult
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 ExtGetDataResult

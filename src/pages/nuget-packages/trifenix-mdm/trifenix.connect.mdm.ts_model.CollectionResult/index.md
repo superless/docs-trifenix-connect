@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.ts_model.CollectionResult
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 CollectionResult
@@ -26,6 +27,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Total
@@ -33,6 +35,7 @@ Total
 
 Total de registros
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Entities
@@ -40,6 +43,7 @@ Entities
 
 Entidades que retorna
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Current
@@ -47,6 +51,7 @@ Current
 
 Generalmente una consulta está relacionado con una página.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Facets
@@ -54,6 +59,7 @@ Facets
 
 Agrupaciones de busqueda.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Filter
@@ -61,6 +67,7 @@ Filter
 
 Filtros de la consulta
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 IndexPropDefaultName
@@ -69,6 +76,7 @@ IndexPropDefaultName
 Indice de la propiedad que será usada,
 por todas las entidades que estén relacionadas con la entidad principal.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 IndexPropNames
@@ -77,6 +85,7 @@ IndexPropNames
 En casos particulares de entidades que no usen la propiedad por defecto,
 podrá asignar el índice de la entidad, y el o los índices de propiedad de tipo string
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 OrderItems

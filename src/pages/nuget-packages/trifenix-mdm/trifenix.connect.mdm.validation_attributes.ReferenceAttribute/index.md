@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.validation_attributes.ReferenceAttribute
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 ReferenceAttribute
@@ -19,6 +20,7 @@ Este atributo es utilizado para determinar si existe el elemento en la base de d
 ## Constructores
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 #ctor(_entityOfReference)
@@ -40,6 +42,7 @@ no existen propidades
 
 ## Constantes
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 entityOfReference

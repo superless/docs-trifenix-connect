@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.ts_model.PropertyMetadata
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 PropertyMetadata
@@ -25,6 +26,7 @@ no existen funciones
 ## Propiedades
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 NameProp
@@ -32,6 +34,7 @@ NameProp
 
 Nombre de la propiedad
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 isArray
@@ -39,6 +42,7 @@ isArray
 
 determina si es o no un array.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Info
@@ -46,6 +50,7 @@ Info
 
 Metadata para ser usada por el html.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Required
@@ -53,6 +58,7 @@ Required
 
 Determina si la propiedad es requerida.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Unique
@@ -61,6 +67,7 @@ Unique
 Determina si la propiedad es única,
 si lo es, solo puede existir solo una propiedad con ese nombre en la colección de entidades.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 Visible
@@ -68,6 +75,7 @@ Visible
 
 Determina si la propiedad es visible en un formulario.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 AutoNumeric
@@ -75,6 +83,7 @@ AutoNumeric
 
 Determina si la propiedad es autonumeríca.
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 HasInput

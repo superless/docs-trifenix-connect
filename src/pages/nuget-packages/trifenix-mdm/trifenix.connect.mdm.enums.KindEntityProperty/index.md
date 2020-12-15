@@ -6,6 +6,7 @@ description: trifenix.connect.mdm.enums.KindEntityProperty
 
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 KindEntityProperty
@@ -29,6 +30,7 @@ no existen propidades
 
 ## Constantes
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 REFERENCE
@@ -36,6 +38,7 @@ REFERENCE
 
 Referecia a una entidad de la base de datos
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
 #### Clase
 ```
 LOCAL_REFERENCE
