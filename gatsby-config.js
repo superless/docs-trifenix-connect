@@ -99,6 +99,6 @@ module.exports = {
     subPages: [...nuget_packages, ...models]
   },
   plugins: [`@adobe/gatsby-theme-aio`],
-  flags: {PRESERVE_WEBPACK_CACHE = true},
+  flags: {PRESERVE_WEBPACK_CACHE : true},
   pathPrefix: process.env.PATH_PREFIX || '/dev-site-documentation-template/'
 };
