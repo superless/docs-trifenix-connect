@@ -41,7 +41,7 @@ steps:
   # copiando archivos a salida
   - task: CopyFiles@2
     inputs:
-      SourceFolder: '$(Build.SourcesDirectory)/web/public'
+      SourceFolder: '$(Build.SourcesDirectory)/public'
       Contents: '**'
       TargetFolder: $(Build.ArtifactStagingDirectory)
       CleanTargetFolder: true
