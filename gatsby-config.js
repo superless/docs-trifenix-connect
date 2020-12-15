@@ -73,23 +73,19 @@ globalNav.footer = {};
 module.exports = {
   siteMetadata: {
     globalNav,
-    versions: [
-      {
-        title: 'v0.1' 
-      }
-    ],
+    // versions: [
+    //   {
+    //     title: 'v0.1' 
+    //   }
+    // ],
     pages: [
       {
-        title: 'Trifenix Connect',
+        title: 'Get Started',
         path: '/'
       },
       {
         title: 'backend C# packs',
         path :'/nuget-packages/'
-      },
-      {
-        title: 'Guides',
-        path: '/guides/'
       },
       {
         title: 'Models',
@@ -99,6 +95,6 @@ module.exports = {
     subPages: [...nuget_packages, ...models]
   },
   plugins: [`@adobe/gatsby-theme-aio`],
-  flags: {PRESERVE_WEBPACK_CACHE : true},
+  flags: {PRESERVE_WEBPACK_CACHE : false},
   pathPrefix: process.env.PATH_PREFIX || '/dev-site-documentation-template/'
 };
