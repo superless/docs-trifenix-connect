@@ -26,6 +26,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -33,7 +34,9 @@ no existen funciones
 MenuIndex
 ```
 
+
 índice que corresponde al menú.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -41,13 +44,16 @@ MenuIndex
 Device
 ```
 
+
 Tipo de dispositivo donde se aplicaría el menú.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 SubMenuIndex
 ```
+
 
 índice que identifica un submenú.
 ## Constantes

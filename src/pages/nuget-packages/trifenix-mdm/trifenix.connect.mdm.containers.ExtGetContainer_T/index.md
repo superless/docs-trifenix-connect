@@ -9,7 +9,7 @@ description: trifenix.connect.mdm.containers.ExtGetContainer`1
 
 #### Clase
 ```
-ExtGetContainer_T
+ExtGetContainer<T>
 ```
 
 ## Descripción
@@ -25,6 +25,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -32,8 +33,10 @@ no existen funciones
 StatusResult
 ```
 
+
 Status del resultado
 Error, Success o emptyResults
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -41,13 +44,16 @@ Error, Success o emptyResults
 Result
 ```
 
+
 Elemento a recuperar
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 ErrorMessage
 ```
+
 
 mensaje de error, si existe.
 ## Constantes

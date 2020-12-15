@@ -25,6 +25,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -32,8 +33,10 @@ no existen funciones
 FilterStr
 ```
 
+
 Filtro de tipo string
 grupo de filtros agrupados por indice de cada propiedad a filtrar.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -41,7 +44,9 @@ grupo de filtros agrupados por indice de cada propiedad a filtrar.
 FilterEntity
 ```
 
+
 filtro de tipo entidad
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -49,7 +54,9 @@ filtro de tipo entidad
 EnumFilter
 ```
 
+
 fitro de tipo enumeración.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -57,7 +64,9 @@ fitro de tipo enumeración.
 LongFilter
 ```
 
+
 filtro de tipo long.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -65,7 +74,9 @@ filtro de tipo long.
 NumFilter
 ```
 
+
 filtro de tipo número.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -73,7 +84,9 @@ filtro de tipo número.
 BoolFilters
 ```
 
+
 filtro de tipo bool
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -81,13 +94,16 @@ filtro de tipo bool
 DateFilters
 ```
 
+
 filtro de tipo date
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 DoubleFilters
 ```
+
 
 filtro de tipo double.
 ## Constantes

@@ -9,7 +9,7 @@ description: trifenix.connect.mdm.entity_model.IProperty`1
 
 #### Clase
 ```
-IProperty_T
+IProperty<T>
 ```
 
 ## Descripción
@@ -25,6 +25,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -32,13 +33,16 @@ no existen funciones
 index
 ```
 
+
 Índice de una propiedad
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 value
 ```
+
 
 Valor de una entidad
 ## Constantes

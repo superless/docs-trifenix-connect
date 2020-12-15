@@ -9,7 +9,7 @@ description: trifenix.connect.mdm.entity_model.EntityBaseSearch`1
 
 #### Clase
 ```
-EntityBaseSearch_T
+EntityBaseSearch<T>
 ```
 
 ## Descripción
@@ -26,6 +26,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -33,7 +34,9 @@ no existen funciones
 id
 ```
 
+
 identificador de un entitySearch
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -41,7 +44,9 @@ identificador de un entitySearch
 created
 ```
 
+
 Fecha de creación del elemento.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -49,9 +54,11 @@ Fecha de creación del elemento.
 index
 ```
 
+
 índice de la entidad, la que identifica como elemento.
 un índice viene de un diccionario que enlaza con la clase que corresponda
 a través de atributos.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -59,7 +66,9 @@ a través de atributos.
 bl
 ```
 
+
 Todas las propiedades booleanas, quedarán en esta colección.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -67,7 +76,9 @@ Todas las propiedades booleanas, quedarán en esta colección.
 dbl
 ```
 
+
 Colección de propiedades de tipo double
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -75,7 +86,9 @@ Colección de propiedades de tipo double
 dt
 ```
 
+
 colección de propiedades de tipo fecha.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -83,7 +96,9 @@ colección de propiedades de tipo fecha.
 enm
 ```
 
+
 Colección de propiedades de tipo enumeración.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -91,7 +106,9 @@ Colección de propiedades de tipo enumeración.
 num32
 ```
 
+
 Colección de propiedades de tipo num32.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -99,7 +116,9 @@ Colección de propiedades de tipo num32.
 num64
 ```
 
+
 Colección de propiedades de tipo num64.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -107,7 +126,9 @@ Colección de propiedades de tipo num64.
 rel
 ```
 
+
 Colección de propiedades de tipo relación.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -115,7 +136,9 @@ Colección de propiedades de tipo relación.
 str
 ```
 
+
 Colección de propiedades de tipo string.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -123,13 +146,16 @@ Colección de propiedades de tipo string.
 sug
 ```
 
+
 Colección de propiedades de tipo suggest.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 geo
 ```
+
 
 Colección de propiedades de tipo geo,
 el tipo Geo esta determinado por el tipo que se asigne al objeto.

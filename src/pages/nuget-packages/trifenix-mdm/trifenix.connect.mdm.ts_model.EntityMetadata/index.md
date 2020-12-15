@@ -25,6 +25,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -32,7 +33,9 @@ no existen funciones
 Title
 ```
 
+
 Nombre de la entidad a mostrar
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -40,7 +43,9 @@ Nombre de la entidad a mostrar
 ShortName
 ```
 
+
 Nombre Corto de la entidad
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -48,7 +53,9 @@ Nombre Corto de la entidad
 Description
 ```
 
+
 Descripción de la entidad
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -56,7 +63,9 @@ Descripción de la entidad
 Index
 ```
 
+
 Índice de la entidad
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -64,7 +73,9 @@ Index
 Visible
 ```
 
+
 Determina si la clase es visible
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -72,8 +83,10 @@ Determina si la clase es visible
 EntityKind
 ```
 
+
 Tipo de entidad, si es de tipo entity, se podría indicar que es común,
 por tanto puede ser generada automáticamente.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -81,9 +94,11 @@ por tanto puede ser generada automáticamente.
 PathName
 ```
 
+
 cadena de texto para la ruta de la entidad,
 esto puede ser usado para el react router
 o las rutas de la api.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -91,7 +106,9 @@ o las rutas de la api.
 AutoNumeric
 ```
 
+
 Autonumérico
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -99,7 +116,9 @@ Autonumérico
 ClassName
 ```
 
+
 Nombre de la clase
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -107,7 +126,9 @@ Nombre de la clase
 StringData
 ```
 
+
 Metadata de las propiedades de tipo string
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -115,7 +136,9 @@ Metadata de las propiedades de tipo string
 NumData
 ```
 
+
 Metadata de las propiedades de tipo número.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -123,7 +146,9 @@ Metadata de las propiedades de tipo número.
 DoubleData
 ```
 
+
 Metadata de las propiedades de tipo double.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -131,7 +156,9 @@ Metadata de las propiedades de tipo double.
 BoolData
 ```
 
+
 Metada de las propiedades de tipo boolean
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -139,7 +166,9 @@ Metada de las propiedades de tipo boolean
 GeoData
 ```
 
+
 Metadata de las propiedades de tipo geo.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -147,7 +176,9 @@ Metadata de las propiedades de tipo geo.
 DateData
 ```
 
+
 Metadata de las propiedades de tipo fecha.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -155,13 +186,16 @@ Metadata de las propiedades de tipo fecha.
 EnumData
 ```
 
+
 propiedades de tipo enumeración.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 relData
 ```
+
 
 propiedades de tipo entidad.
 ## Constantes

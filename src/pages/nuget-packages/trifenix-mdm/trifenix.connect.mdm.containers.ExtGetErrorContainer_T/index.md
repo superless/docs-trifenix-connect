@@ -9,7 +9,7 @@ description: trifenix.connect.mdm.containers.ExtGetErrorContainer`1
 
 #### Clase
 ```
-ExtGetErrorContainer_T
+ExtGetErrorContainer<T>
 ```
 
 ## Descripción
@@ -25,6 +25,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -32,13 +33,16 @@ no existen funciones
 InternalException
 ```
 
+
 Excepción capturada.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 GetBase
 ```
+
 
 Obtiene el error que debe mostrar al usuario final, es decir la misma, pero sin la excepción interna.
 ## Constantes

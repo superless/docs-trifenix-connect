@@ -9,7 +9,7 @@ description: trifenix.connect.mdm.entity_model.IPropertyBaseFaceTable`1
 
 #### Clase
 ```
-IPropertyBaseFaceTable_T
+IPropertyBaseFaceTable<T>
 ```
 
 ## Descripción

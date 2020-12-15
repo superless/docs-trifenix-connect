@@ -25,6 +25,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -32,7 +33,9 @@ no existen funciones
 Title
 ```
 
+
 Título
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -40,7 +43,9 @@ Título
 ShortName
 ```
 
+
 Nombre Resumen
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -48,13 +53,16 @@ Nombre Resumen
 Description
 ```
 
+
 Descripción
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 Column
 ```
+
 
 Valor de Columna
 ## Constantes

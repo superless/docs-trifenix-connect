@@ -9,7 +9,7 @@ description: trifenix.connect.mdm.containers.ExtPostContainer`1
 
 #### Clase
 ```
-ExtPostContainer_T
+ExtPostContainer<T>
 ```
 
 ## Descripción
@@ -25,6 +25,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -32,7 +33,9 @@ no existen funciones
 MessageResult
 ```
 
+
 Mensaje con el resultado
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -40,7 +43,9 @@ Mensaje con el resultado
 Message
 ```
 
+
 Mensaje de error si existiese
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -48,13 +53,16 @@ Mensaje de error si existiese
 Result
 ```
 
+
 Resultado del envío.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 IdRelated
 ```
+
 
 Identificador del elemento relacionado en el post
 ## Constantes

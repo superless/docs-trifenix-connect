@@ -25,6 +25,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -32,7 +33,9 @@ no existen funciones
 Desc
 ```
 
+
 Ascendente o descendente.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -40,13 +43,16 @@ Ascendente o descendente.
 KindProperty
 ```
 
+
 Tipo de propiedad
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 PropertyIndex
 ```
+
 
 Indice de la propiedad
 ## Constantes

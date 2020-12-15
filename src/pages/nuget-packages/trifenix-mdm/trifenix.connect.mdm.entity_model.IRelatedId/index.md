@@ -25,6 +25,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -32,13 +33,16 @@ no existen funciones
 index
 ```
 
+
 índice de la entidad
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 id
 ```
+
 
 identificador de la entidad
 ## Constantes

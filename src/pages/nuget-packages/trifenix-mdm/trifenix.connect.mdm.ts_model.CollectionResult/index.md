@@ -26,6 +26,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -33,7 +34,9 @@ no existen funciones
 Total
 ```
 
+
 Total de registros
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -41,7 +44,9 @@ Total de registros
 Entities
 ```
 
+
 Entidades que retorna
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -49,7 +54,9 @@ Entidades que retorna
 Current
 ```
 
+
 Generalmente una consulta está relacionado con una página.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -57,7 +64,9 @@ Generalmente una consulta está relacionado con una página.
 Facets
 ```
 
+
 Agrupaciones de busqueda.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -65,7 +74,9 @@ Agrupaciones de busqueda.
 Filter
 ```
 
+
 Filtros de la consulta
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -73,8 +84,10 @@ Filtros de la consulta
 IndexPropDefaultName
 ```
 
+
 Indice de la propiedad que será usada,
 por todas las entidades que estén relacionadas con la entidad principal.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -82,14 +95,17 @@ por todas las entidades que estén relacionadas con la entidad principal.
 IndexPropNames
 ```
 
+
 En casos particulares de entidades que no usen la propiedad por defecto,
 podrá asignar el índice de la entidad, y el o los índices de propiedad de tipo string
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 OrderItems
 ```
+
 
 Listado de items para el ordenamiento
 ## Constantes

@@ -25,6 +25,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -32,7 +33,9 @@ no existen funciones
 Index
 ```
 
+
 Índice de la propiedad.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -40,7 +43,9 @@ Index
 Related
 ```
 
+
 tipo de propiedad.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -48,7 +53,9 @@ tipo de propiedad.
 RelatedEntity
 ```
 
+
 tipo de propiedad.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -56,7 +63,9 @@ tipo de propiedad.
 Name
 ```
 
+
 Nombre de la propiedad
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -64,7 +73,9 @@ Nombre de la propiedad
 IndexClass
 ```
 
+
 índice de la clase a la que pertenece la propiedad.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -72,7 +83,9 @@ IndexClass
 Enums
 ```
 
+
 Valores de una enumeración, el número y la descripción.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -80,7 +93,9 @@ Valores de una enumeración, el número y la descripción.
 IsEnumerable
 ```
 
+
 índica si es un enumerable o no.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -88,7 +103,9 @@ IsEnumerable
 IsRequired
 ```
 
+
 Es requerido.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -96,7 +113,9 @@ Es requerido.
 IsUnique
 ```
 
+
 Es único.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -104,7 +123,9 @@ Es único.
 Info
 ```
 
+
 descripción de la propiedad
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -112,7 +133,9 @@ descripción de la propiedad
 Visible
 ```
 
+
 Si la propiedad es visible.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -120,7 +143,9 @@ Si la propiedad es visible.
 AutoNumeric
 ```
 
+
 Si es un autonumérico.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -128,7 +153,9 @@ Si es un autonumérico.
 HasInput
 ```
 
+
 Determina si tiene entrada (Existe una clase con esa propiedad en el namespace de entradas).
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -136,7 +163,9 @@ Determina si tiene entrada (Existe una clase con esa propiedad en el namespace d
 MaxLength
 ```
 
+
 Ancho máximo de la propiedad.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -144,13 +173,16 @@ Ancho máximo de la propiedad.
 MinLength
 ```
 
+
 Ancho Mínimo de la propiedad.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 Group
 ```
+
 
 Grupo al que pertenece.
 ## Constantes

@@ -25,6 +25,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -32,7 +33,9 @@ no existen funciones
 NameProp
 ```
 
+
 Nombre de la propiedad
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -40,7 +43,9 @@ Nombre de la propiedad
 isArray
 ```
 
+
 determina si es o no un array.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -48,7 +53,9 @@ determina si es o no un array.
 Info
 ```
 
+
 Metadata para ser usada por el html.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -56,7 +63,9 @@ Metadata para ser usada por el html.
 Required
 ```
 
+
 Determina si la propiedad es requerida.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -64,8 +73,10 @@ Determina si la propiedad es requerida.
 Unique
 ```
 
+
 Determina si la propiedad es única,
 si lo es, solo puede existir solo una propiedad con ese nombre en la colección de entidades.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -73,7 +84,9 @@ si lo es, solo puede existir solo una propiedad con ese nombre en la colección 
 Visible
 ```
 
+
 Determina si la propiedad es visible en un formulario.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -81,13 +94,16 @@ Determina si la propiedad es visible en un formulario.
 AutoNumeric
 ```
 
+
 Determina si la propiedad es autonumeríca.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 HasInput
 ```
+
 
 Si la propiedad tiene una entrada (las clases de tipo entrada estan conectadas porl el ReferenceSearchHeader)
 ## Constantes

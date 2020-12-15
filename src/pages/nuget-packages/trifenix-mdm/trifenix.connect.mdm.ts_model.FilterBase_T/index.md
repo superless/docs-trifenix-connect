@@ -9,7 +9,7 @@ description: trifenix.connect.mdm.ts_model.FilterBase`1
 
 #### Clase
 ```
-FilterBase_T
+FilterBase<T>
 ```
 
 ## Descripción
@@ -25,6 +25,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -32,13 +33,16 @@ no existen funciones
 FilterType
 ```
 
+
 Tipo de filtro
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 Value
 ```
+
 
 valor a filtrar
 ## Constantes

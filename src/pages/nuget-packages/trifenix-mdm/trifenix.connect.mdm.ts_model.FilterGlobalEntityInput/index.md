@@ -34,6 +34,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -41,7 +42,9 @@ no existen funciones
 indexMain
 ```
 
+
 Indice de una entidad a filtrar
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -49,13 +52,16 @@ Indice de una entidad a filtrar
 EntitiesSelected
 ```
 
+
 Identificador de los elementos seleccionados si es el padre y los ids que dependen del filtro principal para el hijo.
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 FilterChilds
 ```
+
 
 Filtro global Recursivo, si existen propiedades que dependan
 del filtro principal, por ejemplo si un filtro global fuera el año agricola,

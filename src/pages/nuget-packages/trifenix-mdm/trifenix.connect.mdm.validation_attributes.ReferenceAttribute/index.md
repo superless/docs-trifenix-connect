@@ -19,12 +19,14 @@ asignando el identificador de este
 Este atributo es utilizado para determinar si existe el elemento en la base de datos.
 ## Constructores
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 #ctor(_entityOfReference)
 ```
+
 
 Constructor con el tipo de entidad a la que se refiere el id
 ### Parametros
@@ -41,11 +43,13 @@ no existen funciones
 no existen propidades
 
 ## Constantes
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 entityOfReference
 ```
+
 
 Tipo de la entidad de referencia

@@ -29,6 +29,7 @@ no existen funciones
 no existen propidades
 
 ## Constantes
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -36,12 +37,15 @@ no existen propidades
 REFERENCE
 ```
 
+
 Referecia a una entidad de la base de datos
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 LOCAL_REFERENCE
 ```
+
 
 Referecia a una entidad local, es decir que es parte del objeto

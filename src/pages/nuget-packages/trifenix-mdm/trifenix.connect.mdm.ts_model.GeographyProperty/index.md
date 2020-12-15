@@ -26,6 +26,7 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
@@ -33,13 +34,16 @@ no existen funciones
 index
 ```
 
+
 índice de la propiedad de tipo geo
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 value
 ```
+
 
 valor de la propiedad de tipo geo.
 ## Constantes

@@ -25,12 +25,14 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 facet
 ```
+
 
 facet de la entidad.
 el facet se genera desde el index y el id, quedando = index,id

@@ -26,12 +26,14 @@ no existen funciones
 
 ## Propiedades
 
+
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
 EnumData
 ```
+
 
 Descripción de cada valor del metadata.
 ## Constantes
