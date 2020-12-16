@@ -1,8 +1,8 @@
 ---
-title: Overview - Adobe Analytics
-description: This is the overview page of Adobe Analytics
+title: Trifenix connect
+description: Descripción del trifenix connect
 contributors:
-  - https://github.com/simonwex 
+  - https://github.com/trifenix
 ---
 
 <Hero slots="image, heading, text" background="rgb(64, 34, 138)"/>
