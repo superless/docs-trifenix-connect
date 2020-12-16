@@ -4,7 +4,7 @@ description: Entidad base de trifenix connect
 ---
 
 
-# ![icon_package](https://logos.trifenix.io/logo.24x24.png)MdM
+# ![icon_package](https://logos.trifenix.io/logo.48x48.png)MdM
 
  Entidad base de trifenix connect
 
@@ -16,9 +16,9 @@ mdm es el modelo detrás de trifenix connect, en este paquete encontrará todos 
 
 | Tipo | Fuente |
 |---|---|
-|![nuget](https://logos.trifenix.io/nuget.24x24.png) | [Paquete en Nuget.org](https://www.nuget.org/packages/trifenix-main/)|
-|![nuget](https://logos.trifenix.io/nuget.24x24.png) | [Paquete en devops](https://dev.azure.com/trifenix-connect/base-public-components/_packaging?_a=package&feed=trifenix&package=trifenix-main&protocolType=NuGet)|
+|![nuget](https://logos.trifenix.io/nuget.24x24.png) | [Paquete en Nuget.org](https://www.nuget.org/packages/trifenix.connect.mdm/)|
+|![nuget](https://logos.trifenix.io/nuget.24x24.png) | [Paquete en devops](https://dev.azure.com/trifenix-connect/base-public-components/_packaging?_a=package&feed=trifenix&package=trifenix.connect.mdm&protocolType=NuGet)|
 |![github](https://logos.trifenix.io/github.24x24.png) | [Código fuente](https://github.com/trifenix/mdm/)|
 
-![release badge](https://vsrm.dev.azure.com/trifenix-connect/_apis/public/Release/badge/0e468e6a-c444-43d7-95e1-61f36d80dbd2/1/1)
+![release badge](https://feeds.dev.azure.com/trifenix-connect/_apis/public/Packaging/Feeds/4227dc51-6e8c-42c1-97ca-a33e6615385d/Packages/2b2a691b-0198-4745-9b09-12fee3db522c/Badge)
 
