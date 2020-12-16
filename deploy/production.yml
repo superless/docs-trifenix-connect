@@ -36,7 +36,7 @@ steps:
     env:
       REPO_NAME: $(REPO_NAME)
       REPO_OWNER: $(REPO_OWNER) 
-  
+      REPO_BRANCH: $(REPO_BRANCH) 
       
   # copiando archivos a salida
   - task: CopyFiles@2
