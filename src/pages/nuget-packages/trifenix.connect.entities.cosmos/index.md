@@ -1,16 +1,16 @@
 ---
-title : package Trifenix Entities Cosmos
+title : package trifenix.connect.entities.cosmos
 description: Entidades base para base de datos cosmos db usadas en trifenix connect.
 ---
 
 
-# ![icon_package](https://logos.trifenix.io/logo.48x48.png)Trifenix Entities Cosmos
+# ![icon_package](https://logos.trifenix.io/logo.48x48.png)trifenix.connect.entities.cosmos
 
  Entidades base para base de datos cosmos db usadas en trifenix connect.
 
 ## Descripción
 
-### Trifenix Entities Cosmos
+### trifenix.connect.entities.cosmos
 
 Entidades bases para bases de datos cosmosdb usadas en trifenix connect
 
