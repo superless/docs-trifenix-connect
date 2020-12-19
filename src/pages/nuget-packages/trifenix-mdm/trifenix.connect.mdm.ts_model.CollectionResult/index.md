@@ -108,6 +108,17 @@ OrderItems
 
 
 Listado de items para el ordenamiento
+
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
+#### Clase
+```
+OnlyForTsGeneticEntity
+```
+
+
+Este campo es exclusivo para la generación de typescript
+permite poder importatGeoPoinTs
 ## Constantes
 no existen campos
 
