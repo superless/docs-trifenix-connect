@@ -15,6 +15,7 @@ GeographyProperty
 ## Descripción
 Clase de tipo geo, que será generada como componente typescript
 para identificar un campo de tipo geo.
+También se usa para test
 ## Constructores
 
 no existen constructores
