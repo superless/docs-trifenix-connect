@@ -4,6 +4,7 @@ description: trifenix.connect.translate.GoogleTranslator
 ---
 
 
+# Google Translator
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
