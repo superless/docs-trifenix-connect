@@ -3,7 +3,7 @@ title : EnumerationExtension
 description: trifenix.connect.util.EnumerationExtension
 ---
 
-
+# EnumerationExtension
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

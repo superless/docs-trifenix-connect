@@ -3,7 +3,7 @@ title : JsonDictionaryHeaders
 description: trifenix.connect.search_mdl.JsonDictionaryHeaders
 ---
 
-
+# JsonDictionaryHeaders
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

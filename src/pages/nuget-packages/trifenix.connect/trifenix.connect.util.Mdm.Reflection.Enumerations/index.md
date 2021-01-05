@@ -3,7 +3,7 @@ title : Enumerations
 description: trifenix.connect.util.Mdm.Reflection.Enumerations
 ---
 
-
+# Enumerations
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

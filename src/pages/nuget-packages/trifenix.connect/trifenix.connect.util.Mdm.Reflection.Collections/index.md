@@ -3,7 +3,7 @@ title : Collections
 description: trifenix.connect.util.Mdm.Reflection.Collections
 ---
 
-
+# Collections
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

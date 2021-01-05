@@ -3,7 +3,7 @@ title : DocumentDb
 description: trifenix.connect.model.DocumentDb
 ---
 
-
+# DocumentDb
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

@@ -3,7 +3,7 @@ title : InputBase
 description: trifenix.connect.input.InputBase
 ---
 
-
+# InputBase
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

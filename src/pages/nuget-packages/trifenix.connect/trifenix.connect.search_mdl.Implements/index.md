@@ -3,7 +3,7 @@ title : Implements
 description: trifenix.connect.search_mdl.Implements
 ---
 
-
+# Implements
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

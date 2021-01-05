@@ -3,7 +3,7 @@ title : Mdm
 description: trifenix.connect.util.Mdm
 ---
 
-
+# Mdm
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

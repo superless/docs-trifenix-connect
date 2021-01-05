@@ -3,7 +3,7 @@ title : Reflection
 description: trifenix.connect.util.Mdm.Reflection
 ---
 
-
+# Reflection
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

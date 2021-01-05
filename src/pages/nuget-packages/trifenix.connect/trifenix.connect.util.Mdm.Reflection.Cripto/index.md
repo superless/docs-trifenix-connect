@@ -3,7 +3,7 @@ title : Cripto
 description: trifenix.connect.util.Mdm.Reflection.Cripto
 ---
 
-
+# Cripto
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

@@ -3,7 +3,7 @@ title : ArrayExtension
 description: trifenix.connect.util.ArrayExtension
 ---
 
-
+# ArrayExtension
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
