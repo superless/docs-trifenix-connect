@@ -3,7 +3,7 @@ title : PropertySearchInfo
 description: trifenix.connect.mdm.ts_model.PropertySearchInfo
 ---
 
-
+# PropertySearchInfo
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

@@ -3,7 +3,7 @@ title : ModelMetaData
 description: trifenix.connect.mdm.ts_model.ModelMetaData
 ---
 
-
+# ModelMetaData
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

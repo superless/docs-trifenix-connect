@@ -3,7 +3,7 @@ title : Facet
 description: trifenix.connect.mdm.ts_model.Facet
 ---
 
-
+# Facet
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

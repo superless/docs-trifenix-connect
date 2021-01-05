@@ -3,7 +3,7 @@ title : ExtGetDataResult
 description: trifenix.connect.mdm.enums.ExtGetDataResult
 ---
 
-
+# ExtGetDataResult
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

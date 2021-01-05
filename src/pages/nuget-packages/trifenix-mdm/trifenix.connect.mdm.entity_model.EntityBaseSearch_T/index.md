@@ -3,7 +3,7 @@ title : EntityBaseSearch<T>
 description: trifenix.connect.mdm.entity_model.EntityBaseSearch`1
 ---
 
-
+# EntityBaseSearch<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

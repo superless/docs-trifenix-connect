@@ -3,7 +3,7 @@ title : CollectionResult
 description: trifenix.connect.mdm.ts_model.CollectionResult
 ---
 
-
+# CollectionResult
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

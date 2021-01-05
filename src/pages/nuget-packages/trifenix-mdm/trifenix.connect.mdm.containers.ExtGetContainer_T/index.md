@@ -3,7 +3,7 @@ title : ExtGetContainer<T>
 description: trifenix.connect.mdm.containers.ExtGetContainer`1
 ---
 
-
+# ExtGetContainer<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

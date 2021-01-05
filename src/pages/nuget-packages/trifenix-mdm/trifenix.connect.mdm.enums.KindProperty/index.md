@@ -3,7 +3,7 @@ title : KindProperty
 description: trifenix.connect.mdm.enums.KindProperty
 ---
 
-
+# KindProperty
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

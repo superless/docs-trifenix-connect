@@ -3,7 +3,7 @@ title : GeographyProperty
 description: trifenix.connect.mdm.ts_model.GeographyProperty
 ---
 
-
+# GeographyProperty
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

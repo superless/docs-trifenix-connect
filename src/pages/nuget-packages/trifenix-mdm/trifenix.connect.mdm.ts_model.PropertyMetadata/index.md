@@ -3,7 +3,7 @@ title : PropertyMetadata
 description: trifenix.connect.mdm.ts_model.PropertyMetadata
 ---
 
-
+# PropertyMetadata
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

@@ -3,7 +3,7 @@ title : IProperty<T>
 description: trifenix.connect.mdm.entity_model.IProperty`1
 ---
 
-
+# IProperty<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

@@ -3,7 +3,7 @@ title : GeoPointTs
 description: trifenix.connect.mdm.ts_model.GeoPointTs
 ---
 
-
+# GeoPointTs
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

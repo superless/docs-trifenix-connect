@@ -3,7 +3,7 @@ title : EntityIndexAttribute
 description: trifenix.connect.mdm_attributes.EntityIndexAttribute
 ---
 
-
+# EntityIndexAttribute
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

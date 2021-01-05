@@ -3,7 +3,7 @@ title : FilterGlobalEntityInput
 description: trifenix.connect.mdm.ts_model.FilterGlobalEntityInput
 ---
 
-
+# FilterGlobalEntityInput
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

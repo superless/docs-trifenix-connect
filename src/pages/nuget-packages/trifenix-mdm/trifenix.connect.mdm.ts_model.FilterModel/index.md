@@ -3,7 +3,7 @@ title : FilterModel
 description: trifenix.connect.mdm.ts_model.FilterModel
 ---
 
-
+# FilterModel
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

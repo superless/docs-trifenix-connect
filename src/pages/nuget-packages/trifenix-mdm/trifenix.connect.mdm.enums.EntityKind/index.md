@@ -3,7 +3,7 @@ title : EntityKind
 description: trifenix.connect.mdm.enums.EntityKind
 ---
 
-
+# EntityKind
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

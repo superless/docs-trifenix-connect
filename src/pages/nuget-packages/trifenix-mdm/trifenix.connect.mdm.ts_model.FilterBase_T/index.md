@@ -3,7 +3,7 @@ title : FilterBase<T>
 description: trifenix.connect.mdm.ts_model.FilterBase`1
 ---
 
-
+# FilterBase<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

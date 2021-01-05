@@ -3,7 +3,7 @@ title : EntitySearchDisplayInfo
 description: trifenix.connect.mdm.ts_model.EntitySearchDisplayInfo
 ---
 
-
+# EntitySearchDisplayInfo
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

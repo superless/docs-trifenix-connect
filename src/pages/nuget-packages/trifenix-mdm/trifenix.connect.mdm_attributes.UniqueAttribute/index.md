@@ -3,7 +3,7 @@ title : UniqueAttribute
 description: trifenix.connect.mdm_attributes.UniqueAttribute
 ---
 
-
+# UniqueAttribute
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

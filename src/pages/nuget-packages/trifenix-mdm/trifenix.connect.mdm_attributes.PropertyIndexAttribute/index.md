@@ -3,7 +3,7 @@ title : PropertyIndexAttribute
 description: trifenix.connect.mdm_attributes.PropertyIndexAttribute
 ---
 
-
+# PropertyIndexAttribute
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

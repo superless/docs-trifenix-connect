@@ -3,7 +3,7 @@ title : IBoolProperty
 description: trifenix.connect.mdm.entity_model.IBoolProperty
 ---
 
-
+# IBoolProperty
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

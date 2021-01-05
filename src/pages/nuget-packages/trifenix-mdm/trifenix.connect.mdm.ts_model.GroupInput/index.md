@@ -3,7 +3,7 @@ title : GroupInput
 description: trifenix.connect.mdm.ts_model.GroupInput
 ---
 
-
+# GroupInput
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

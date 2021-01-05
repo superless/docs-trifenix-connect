@@ -3,7 +3,7 @@ title : ExtMessageResult
 description: trifenix.connect.mdm.enums.ExtMessageResult
 ---
 
-
+# ExtMessageResult
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

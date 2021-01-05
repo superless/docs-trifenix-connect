@@ -3,7 +3,7 @@ title : BaseIndexAttribute
 description: trifenix.connect.mdm_attributes.BaseIndexAttribute
 ---
 
-
+# BaseIndexAttribute
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

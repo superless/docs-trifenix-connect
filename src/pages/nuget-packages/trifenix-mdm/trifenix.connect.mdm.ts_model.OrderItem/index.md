@@ -3,7 +3,7 @@ title : OrderItem
 description: trifenix.connect.mdm.ts_model.OrderItem
 ---
 
-
+# OrderItem
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

@@ -3,7 +3,7 @@ title : PropertyMetadadataEnum
 description: trifenix.connect.mdm.ts_model.PropertyMetadadataEnum
 ---
 
-
+# PropertyMetadadataEnum
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

@@ -3,7 +3,7 @@ title : EntityMetadata
 description: trifenix.connect.mdm.ts_model.EntityMetadata
 ---
 
-
+# EntityMetadata
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
