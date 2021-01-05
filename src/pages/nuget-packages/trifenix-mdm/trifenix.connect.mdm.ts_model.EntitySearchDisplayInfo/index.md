@@ -34,7 +34,7 @@ Title
 ```
 
 
-Título
+Título de Entity Search
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
