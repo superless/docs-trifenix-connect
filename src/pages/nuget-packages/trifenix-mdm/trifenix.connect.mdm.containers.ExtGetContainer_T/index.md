@@ -1,9 +1,9 @@
 ---
-title : ExtGetContainer<T>
+title : ExtGetContainer&lt;T&gt;
 description: trifenix.connect.mdm.containers.ExtGetContainer`1
 ---
 
-# ExtGetContainer<T>
+# ExtGetContainer&lt;T&gt;
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

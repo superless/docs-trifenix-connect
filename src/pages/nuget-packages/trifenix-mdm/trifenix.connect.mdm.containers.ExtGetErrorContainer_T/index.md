@@ -1,9 +1,9 @@
 ---
-title : ExtGetErrorContainer<T>
+title : ExtGetErrorContainer&lt;T&gt;
 description: trifenix.connect.mdm.containers.ExtGetErrorContainer`1
 ---
 
-# ExtGetErrorContainer<T>
+# ExtGetErrorContainer&lt;T&gt;
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

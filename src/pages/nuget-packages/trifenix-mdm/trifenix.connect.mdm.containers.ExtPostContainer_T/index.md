@@ -1,9 +1,9 @@
 ---
-title : ExtPostContainer<T>
+title : ExtPostContainer&lt;T&gt;
 description: trifenix.connect.mdm.containers.ExtPostContainer`1
 ---
 
-# ExtPostContainer<T>
+# ExtPostContainer&lt;T&gt;
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
