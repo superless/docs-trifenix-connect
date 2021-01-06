@@ -1,9 +1,9 @@
 ---
-title : Implements<T>
+title : Implements&lt;T&gt;
 description: trifenix.connect.search_mdl.Implements`1
 ---
 
-# Implements<T>
+# Implements&lt;T&gt;
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

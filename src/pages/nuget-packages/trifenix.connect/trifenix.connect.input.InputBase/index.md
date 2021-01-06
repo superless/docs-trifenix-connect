@@ -13,7 +13,7 @@ InputBase
 ```
 
 ## Descripción
-Clase abstracta que será usado por todos los ingresos de usuario
+Clase abstracta que será usado por todos los ingresos de usuario.
 ## Constructores
 
 no existen constructores

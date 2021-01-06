@@ -1,9 +1,9 @@
 ---
-title : ISearchEntity<T>
+title : ISearchEntity&lt;T&gt;
 description: trifenix.connect.search_mdl.ISearchEntity`1
 ---
 
-# ISearchEntity<T>
+# ISearchEntity&lt;T&gt;
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
