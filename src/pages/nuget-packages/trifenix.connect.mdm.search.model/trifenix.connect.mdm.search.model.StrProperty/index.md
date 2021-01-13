@@ -3,7 +3,7 @@ title : StrProperty
 description: trifenix.connect.mdm.search.model.StrProperty
 ---
 
-
+# StrProperty
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

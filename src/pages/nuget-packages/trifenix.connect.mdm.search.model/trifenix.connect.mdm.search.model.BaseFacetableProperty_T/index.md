@@ -1,9 +1,9 @@
 ---
-title : BaseFacetableProperty<T>
+title : BaseFacetableProperty_T
 description: trifenix.connect.mdm.search.model.BaseFacetableProperty`1
 ---
 
-
+# BaseFacetableProperty<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

@@ -1,9 +1,9 @@
 ---
-title : BaseProperty<T>
+title : BaseProperty_T
 description: trifenix.connect.mdm.search.model.BaseProperty`1
 ---
 
-
+# BaseProperty<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

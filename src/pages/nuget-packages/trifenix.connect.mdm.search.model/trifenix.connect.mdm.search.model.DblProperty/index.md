@@ -3,7 +3,7 @@ title : DblProperty
 description: trifenix.connect.mdm.search.model.DblProperty
 ---
 
-
+# DblProperty
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

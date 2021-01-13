@@ -3,7 +3,7 @@ title : GeoProperty
 description: trifenix.connect.mdm.search.model.GeoProperty
 ---
 
-
+# GeoProperty
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

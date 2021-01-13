@@ -3,7 +3,7 @@ title : RelatedId
 description: trifenix.connect.mdm.search.model.RelatedId
 ---
 
-
+# RelatedId
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

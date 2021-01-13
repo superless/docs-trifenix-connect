@@ -3,7 +3,7 @@ title : DtProperty
 description: trifenix.connect.mdm.search.model.DtProperty
 ---
 
-
+# DtProperty
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

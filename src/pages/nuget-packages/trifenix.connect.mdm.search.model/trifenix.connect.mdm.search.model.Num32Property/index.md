@@ -3,7 +3,7 @@ title : Num32Property
 description: trifenix.connect.mdm.search.model.Num32Property
 ---
 
-
+# Num32Property
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

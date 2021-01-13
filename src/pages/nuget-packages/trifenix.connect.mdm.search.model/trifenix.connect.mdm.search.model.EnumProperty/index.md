@@ -3,7 +3,7 @@ title : EnumProperty
 description: trifenix.connect.mdm.search.model.EnumProperty
 ---
 
-
+# EnumProperty
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

@@ -3,7 +3,7 @@ title : BoolProperty
 description: trifenix.connect.mdm.search.model.BoolProperty
 ---
 
-
+# BoolProperty
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
