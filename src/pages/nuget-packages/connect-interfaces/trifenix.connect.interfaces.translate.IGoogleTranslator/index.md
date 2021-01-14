@@ -3,7 +3,7 @@ title : IGoogleTranslator
 description: trifenix.connect.interfaces.translate.IGoogleTranslator
 ---
 
-
+# IGoogleTranslator
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

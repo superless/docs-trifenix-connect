@@ -3,7 +3,7 @@ title : IGraphApi
 description: trifenix.connect.interfaces.graph.IGraphApi
 ---
 
-
+# IGraphApi
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

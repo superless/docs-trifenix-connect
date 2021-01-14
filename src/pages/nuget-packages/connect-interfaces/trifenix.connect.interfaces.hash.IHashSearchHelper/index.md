@@ -3,7 +3,7 @@ title : IHashSearchHelper
 description: trifenix.connect.interfaces.hash.IHashSearchHelper
 ---
 
-
+# IHashSearchHelper
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

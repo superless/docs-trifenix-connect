@@ -3,7 +3,7 @@ title : ILogSimpleQuery
 description: trifenix.connect.interfaces.log.ILogSimpleQuery
 ---
 
-
+# ILogSimpleQuery
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

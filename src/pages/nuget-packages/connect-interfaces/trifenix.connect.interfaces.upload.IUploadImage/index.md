@@ -3,7 +3,7 @@ title : IUploadImage
 description: trifenix.connect.interfaces.upload.IUploadImage
 ---
 
-
+# IUploadImage
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

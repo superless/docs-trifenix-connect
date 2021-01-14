@@ -3,7 +3,7 @@ title : IEmail
 description: trifenix.connect.interfaces.IEmail
 ---
 
-
+# IEmail
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

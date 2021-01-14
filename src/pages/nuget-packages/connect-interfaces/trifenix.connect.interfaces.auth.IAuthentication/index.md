@@ -3,7 +3,7 @@ title : IAuthentication
 description: trifenix.connect.interfaces.auth.IAuthentication
 ---
 
-
+# IAuthentication
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
