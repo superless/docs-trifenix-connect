@@ -3,7 +3,7 @@ title : DocumentBaseName
 description: trifenix.connect.entities.cosmos.DocumentBaseName
 ---
 
-
+# DocumentBaseName
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
