@@ -1,9 +1,9 @@
 ---
-title : IMainGenericDb<T>
+title : IMainGenericDb_T
 description: trifenix.connect.interfaces.db.cosmos.IMainGenericDb`1
 ---
 
-
+# IMainGenericDb<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

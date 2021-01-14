@@ -3,7 +3,7 @@ title : IExistElement
 description: trifenix.connect.interfaces.db.cosmos.IExistElement
 ---
 
-
+# IExistElement
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
