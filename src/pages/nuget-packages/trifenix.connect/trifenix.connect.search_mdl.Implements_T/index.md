@@ -1,5 +1,5 @@
 ---
-title : Implements<T>
+title : Implements_T
 description: trifenix.connect.search_mdl.Implements`1
 ---
 

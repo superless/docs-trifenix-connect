@@ -1,5 +1,5 @@
 ---
-title : ISearchEntity<T>
+title : ISearchEntity_T
 description: trifenix.connect.search_mdl.ISearchEntity`1
 ---
 
