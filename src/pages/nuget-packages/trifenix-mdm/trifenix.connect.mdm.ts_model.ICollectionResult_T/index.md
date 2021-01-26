@@ -1,19 +1,22 @@
 ---
-title : ExtGetContainer_T
-description: trifenix.connect.mdm.containers.ExtGetContainer`1
+title : ICollectionResult_T
+description: trifenix.connect.mdm.ts_model.ICollectionResult`1
 ---
 
-# ExtGetContainer<T>
+# ICollectionResult<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
-ExtGetContainer<T>
+ICollectionResult<T>
 ```
 
 ## Descripción
-Contenedor para respuestas get
+Clase de Typescript creada en C#, solo tiene funcionalidad en Typescript
+es parte del modelo trifenix/mdm generado automáticamente desde C#.
+Resultado de una consulta de entidades.
+Los valores incluidos + la consulta, permiten refrescar.
 ## Constructores
 
 no existen constructores
@@ -30,32 +33,31 @@ no existen funciones
 
 #### Clase
 ```
-StatusResult
+Total
 ```
 
 
-Status del resultado
-Error, Success o emptyResults
+Total de registros
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
-Result
+Entities
 ```
 
 
-Elemento a recuperar
+Entidades que retorna
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
-ErrorMessage
+Facets
 ```
 
 
-mensaje de error, si existe.
+Agrupaciones de busqueda.
 ## Constantes
 no existen campos
 

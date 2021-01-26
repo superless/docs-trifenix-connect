@@ -1,9 +1,9 @@
 ---
-title : IEntitySearch&lt;T&gt;
+title : IEntitySearch_T
 description: trifenix.connect.mdm.entity_model.IEntitySearch`1
 ---
 
-# IEntitySearch&lt;T&gt;
+# IEntitySearch<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

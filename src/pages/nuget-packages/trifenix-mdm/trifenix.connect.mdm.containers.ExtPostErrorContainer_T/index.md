@@ -1,9 +1,9 @@
 ---
-title : ExtPostErrorContainer&lt;T&gt;
+title : ExtPostErrorContainer_T
 description: trifenix.connect.mdm.containers.ExtPostErrorContainer`1
 ---
 
-# ExtPostErrorContainer&lt;T&gt;
+# ExtPostErrorContainer<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

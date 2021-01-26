@@ -1,9 +1,9 @@
 ---
-title : FilterBase&lt;T&gt;
+title : FilterBase_T
 description: trifenix.connect.mdm.ts_model.FilterBase`1
 ---
 
-# FilterBase&lt;T&gt;
+# FilterBase<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

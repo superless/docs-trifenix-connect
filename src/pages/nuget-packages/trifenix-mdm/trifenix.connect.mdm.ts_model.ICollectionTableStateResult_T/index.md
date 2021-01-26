@@ -1,19 +1,19 @@
 ---
-title : IPropertyBaseFaceTable_T
-description: trifenix.connect.mdm.entity_model.IPropertyBaseFaceTable`1
+title : ICollectionTableStateResult_T
+description: trifenix.connect.mdm.ts_model.ICollectionTableStateResult`1
 ---
 
-# IPropertyBaseFaceTable<T>
+# ICollectionTableStateResult<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
-IPropertyBaseFaceTable<T>
+ICollectionTableStateResult<T>
 ```
 
 ## Descripción
-Enum, Fecha y entidades tienen facetable para agrupar resultados.
+Combina el resultado y las consultas, para mantenerlo en redux.
 ## Constructores
 
 no existen constructores
