@@ -17,7 +17,7 @@ Para generar un entitySearch desde un objeto de una clase, usamos interfaces que
 implementar el modelo en diferentes bases de datos.
 En el modelo existe una entidad y sus propiedades,
 sus propiedades pueden ser de valor o de referencia,
-los de referencia, vinculan otros entitySearch.
+los de referencia vinculan otros entitySearch
 y los de valor agruparan los distintos tipos de datos que un motor de busqueda soporta (str, int, enums, etc), incluso geo.
 por cada tipo existe una interface.
 Dado que debemos generar un objeto de tipo IEntitySearch desde un objeto de una clase
@@ -42,7 +42,7 @@ GeoObjetoToGeoSearch
 ```
 
 
-Transforma o Castea el objeto geo que tendría un objeto de una clase 
+Transforma o castea el objeto geo que tendría un objeto de una clase 
 al objeto geo que usa el modelo entitySearch.
 el objeto geo es el único no primitivo (bool, date, string, dbl, etc).
 ## Constantes
