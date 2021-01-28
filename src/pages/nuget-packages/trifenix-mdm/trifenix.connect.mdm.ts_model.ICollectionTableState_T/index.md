@@ -78,6 +78,26 @@ OrderItems
 
 
 Listado de items para el ordenamiento
+
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
+#### Clase
+```
+ItemsByPage
+```
+
+
+items que se encuentran en cada página.
+
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
+#### Clase
+```
+Facets
+```
+
+
+facets encontradas.
 ## Constantes
 no existen campos
 
