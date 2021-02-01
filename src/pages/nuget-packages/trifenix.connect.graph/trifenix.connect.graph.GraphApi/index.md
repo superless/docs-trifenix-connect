@@ -3,7 +3,7 @@ title : GraphApi
 description: trifenix.connect.graph.GraphApi
 ---
 
-
+# GraphApi
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
