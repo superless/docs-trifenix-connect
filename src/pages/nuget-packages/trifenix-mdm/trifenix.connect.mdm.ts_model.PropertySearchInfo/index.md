@@ -185,6 +185,16 @@ Group
 
 
 Grupo al que pertenece.
+
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
+#### Clase
+```
+RealIndex
+```
+
+
+índice real de una entidad obtenida desde la metadata.
 ## Constantes
 no existen campos
 
