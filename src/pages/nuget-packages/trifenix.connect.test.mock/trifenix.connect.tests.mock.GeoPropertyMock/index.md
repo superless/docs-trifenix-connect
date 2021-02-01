@@ -3,7 +3,7 @@ title : GeoPropertyMock
 description: trifenix.connect.tests.mock.GeoPropertyMock
 ---
 
-
+# GeoPropertyMock
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

@@ -3,7 +3,7 @@ title : ImplementMock
 description: trifenix.connect.tests.mock.ImplementMock
 ---
 
-
+# ImplementMock
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
