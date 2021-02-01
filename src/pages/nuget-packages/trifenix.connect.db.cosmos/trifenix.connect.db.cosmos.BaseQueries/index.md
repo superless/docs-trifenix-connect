@@ -3,7 +3,7 @@ title : BaseQueries
 description: trifenix.connect.db.cosmos.BaseQueries
 ---
 
-
+# BaseQueries
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

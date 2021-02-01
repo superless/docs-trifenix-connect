@@ -1,9 +1,9 @@
 ---
-title : NonIdException<T>
+title : NonIdException_T
 description: trifenix.connect.db.cosmos.exceptions.NonIdException`1
 ---
 
-
+# NonIdException<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

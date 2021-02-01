@@ -1,9 +1,9 @@
 ---
-title : CommonDbOperations<T>
+title : CommonDbOperations_T
 description: trifenix.connect.db.cosmos.CommonDbOperations`1
 ---
 
-
+# CommonDbOperations<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

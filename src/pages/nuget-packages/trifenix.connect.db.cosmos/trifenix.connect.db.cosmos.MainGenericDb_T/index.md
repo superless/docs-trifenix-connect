@@ -1,9 +1,9 @@
 ---
-title : MainGenericDb<T>
+title : MainGenericDb_T
 description: trifenix.connect.db.cosmos.MainGenericDb`1
 ---
 
-
+# MainGenericDb<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

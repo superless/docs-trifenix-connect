@@ -1,9 +1,9 @@
 ---
-title : BaseException<T>
+title : BaseException_T
 description: trifenix.connect.db.cosmos.exceptions.BaseException`1
 ---
 
-
+# BaseException<T>
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

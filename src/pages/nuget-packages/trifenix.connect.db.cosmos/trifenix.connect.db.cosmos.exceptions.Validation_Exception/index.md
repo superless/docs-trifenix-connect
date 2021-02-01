@@ -3,7 +3,7 @@ title : Validation_Exception
 description: trifenix.connect.db.cosmos.exceptions.Validation_Exception
 ---
 
-
+# Validation_Exception
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

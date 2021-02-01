@@ -3,7 +3,7 @@ title : TimeStampDbQueries
 description: trifenix.connect.db.cosmos.TimeStampDbQueries
 ---
 
-
+# TimeStampDbQueries
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
