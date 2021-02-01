@@ -42,13 +42,13 @@ no existen funciones
 
 #### Clase
 ```
-Bypass
+RealIndex
 ```
 
 
 Se usa exclusivamente cuando una entidad apunto a otra entidad en más de una propiedad.
 el modelo no puede soportar dos propiedades que apuntan a la misma entidad.
-cuando se da el caso, se debe crear un bypass, por ejemplo.
+cuando se da el caso, se debe crear un bypass (índice real), por ejemplo.
 Un cuartel apunta a variedad, a través de la propiedad variedad, pero también en polinizador.
 el modelo mdm cuando detecta que existen varias propiedades que apuntan a la misma entidad
 los agrupa y los lleva como un array de entidades relacionadas, con el índice y su valor, no diferenciando que sean propiedades distintas.
