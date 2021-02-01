@@ -3,7 +3,7 @@ title : Email
 description: trifenix.connect.email.Email
 ---
 
-
+# Email
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
