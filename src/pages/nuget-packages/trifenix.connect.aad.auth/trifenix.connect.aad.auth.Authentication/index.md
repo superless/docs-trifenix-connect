@@ -3,7 +3,7 @@ title : Authentication
 description: trifenix.connect.aad.auth.Authentication
 ---
 
-
+# Authentication
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
