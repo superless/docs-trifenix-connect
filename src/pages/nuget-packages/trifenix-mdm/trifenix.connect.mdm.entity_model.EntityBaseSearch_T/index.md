@@ -153,6 +153,26 @@ Colección de propiedades de tipo suggest.
 
 #### Clase
 ```
+hm
+```
+
+
+Hash del modelo
+
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
+#### Clase
+```
+hh
+```
+
+
+hash de las cabeceras
+
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
+#### Clase
+```
 geo
 ```
 

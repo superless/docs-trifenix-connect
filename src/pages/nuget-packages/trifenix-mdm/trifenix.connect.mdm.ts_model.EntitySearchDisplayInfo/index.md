@@ -65,6 +65,16 @@ Column
 
 
 Valor de Columna
+
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
+#### Clase
+```
+PlaceHolder
+```
+
+
+PlaceHolder
 ## Constantes
 no existen campos
 
