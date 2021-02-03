@@ -58,6 +58,17 @@ Siempre que se consulte sobre polinizador se sabrá que es solo una referencia
 y se apuntará al que corresponde realmente.
 !Importante, esto no afecta el modelo de clases, el modelo de clases se mantiene igual, solo se debe considerar a nivel de los atributos MDM
 y crear una clase que haga la referencia, como en el ejemplo Polinator.
+
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
+#### Clase
+```
+Dropdown
+```
+
+
+Indica si la entidad relacionada debe ser un dropdown en 
+la creación del formulario de la entidad
 ## Constantes
 no existen campos
 
