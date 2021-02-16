@@ -26,7 +26,7 @@ no existen constructores
 
 #### Clase
 ```
-InvokeDynamicGeneric(ClassContainer,MethodName,GenericType,Parameters,genericProp)
+InvokeDynamicGeneric(MethodName,GenericType,Parameters,genericProp)
 ```
 
 
@@ -34,10 +34,10 @@ Invoca método genérico dinámicamente (Los tipo de datos se determinan en tiem
 ### Parametros
 | Nombre | Tipo | Descripción |
 | ------ | ---- | ----------- |
-| ClassContainer | [System.String](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.String 'System.String') | Clase que contiene el método genérico |
-| MethodName | [System.Type](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.Type 'System.Type') | Nombre del método genérico |
-| GenericType | [System.Object[]](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.Object[] 'System.Object[]') | Tipo de dato usado como genérico |
-| Parameters | [System.Type](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.Type 'System.Type') | Conjunto de parámetros utilizados por el método genérico |
+| MethodName | [System.String](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.String 'System.String') | Nombre del método genérico |
+| GenericType | [System.Type](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.Type 'System.Type') | Tipo de dato usado como genérico |
+| Parameters | [System.Object[]](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.Object[] 'System.Object[]') | Conjunto de parámetros utilizados por el método genérico |
+| genericProp | [System.Type](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.Type 'System.Type') |  |
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

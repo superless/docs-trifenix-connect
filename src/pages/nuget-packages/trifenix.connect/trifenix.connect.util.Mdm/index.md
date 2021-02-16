@@ -460,6 +460,22 @@ Colección de entitySearch que representan un model
 
 #### Clase
 ```
+GetLoadableTypes(assembly)
+```
+
+
+Obtiene los tipos de un assembly (dll).
+### Retorna
+
+### Parametros
+| Nombre | Tipo | Descripción |
+| ------ | ---- | ----------- |
+| assembly | [System.Reflection.Assembly](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.Reflection.Assembly 'System.Reflection.Assembly') | dll obtenido desde una ruta |
+
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
+#### Clase
+```
 PreLoadedDictionary()
 ```
 

@@ -1,19 +1,20 @@
 ---
-title : DocumentDb
-description: trifenix.connect.model.DocumentDb
+title : DeleteItem
+description: trifenix.connect.model.DeleteItem
 ---
 
-# DocumentDb
+# DeleteItem
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
-DocumentDb
+DeleteItem
 ```
 
 ## Descripción
-Elemento base del modelo de datos de trifenix connect.
+Elementos de una coleccion que contiene el tipo de documento(Barrack, order, etc)
+y la propiedad a ser usada para la eliminacion/desactivacion
 ## Constructores
 
 no existen constructores
@@ -30,31 +31,21 @@ no existen funciones
 
 #### Clase
 ```
-Id
+DocumentType
 ```
 
 
-Todos los elementos debene llevar un identificador
+Tipo de documento(Barrack, order, etc)
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
-ClientId
+Property
 ```
 
 
-Identificador que solo el usuario puede ver, esto puede ser un autonumérico.
-
-<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
-
-#### Clase
-```
-State
-```
-
-
-Indicador de estado de la entidad
+Propiedades de un documento
 ## Constantes
 no existen campos
 
