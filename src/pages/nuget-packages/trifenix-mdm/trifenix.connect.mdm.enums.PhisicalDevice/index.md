@@ -3,7 +3,7 @@ title : PhisicalDevice
 description: trifenix.connect.mdm.enums.PhisicalDevice
 ---
 
-# PhisicalDevice
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

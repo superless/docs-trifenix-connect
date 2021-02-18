@@ -3,13 +3,13 @@ title : ExtGetErrorContainer_T
 description: trifenix.connect.mdm.containers.ExtGetErrorContainer`1
 ---
 
-# ExtGetErrorContainer<T>
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
-ExtGetErrorContainer<T>
+ExtGetErrorContainer_T
 ```
 
 ## Descripción

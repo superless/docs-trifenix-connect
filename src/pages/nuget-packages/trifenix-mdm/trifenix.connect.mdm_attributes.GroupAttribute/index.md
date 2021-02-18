@@ -3,7 +3,7 @@ title : GroupAttribute
 description: trifenix.connect.mdm_attributes.GroupAttribute
 ---
 
-# GroupAttribute
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

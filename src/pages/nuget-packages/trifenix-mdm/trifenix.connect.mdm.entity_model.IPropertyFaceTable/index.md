@@ -3,7 +3,7 @@ title : IPropertyFaceTable
 description: trifenix.connect.mdm.entity_model.IPropertyFaceTable
 ---
 
-# IPropertyFaceTable
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

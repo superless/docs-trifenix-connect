@@ -3,7 +3,7 @@ title : GroupMenu
 description: trifenix.connect.mdm.ts_model.GroupMenu
 ---
 
-# GroupMenu
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

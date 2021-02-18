@@ -3,7 +3,7 @@ title : IEnumProperty
 description: trifenix.connect.mdm.entity_model.IEnumProperty
 ---
 
-# IEnumProperty
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

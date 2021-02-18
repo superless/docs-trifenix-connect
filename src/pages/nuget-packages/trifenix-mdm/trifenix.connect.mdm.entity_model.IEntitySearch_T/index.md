@@ -3,13 +3,13 @@ title : IEntitySearch_T
 description: trifenix.connect.mdm.entity_model.IEntitySearch`1
 ---
 
-# IEntitySearch<T>
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
-IEntitySearch<T>
+IEntitySearch_T
 ```
 
 ## Descripción

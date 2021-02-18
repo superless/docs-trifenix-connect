@@ -3,7 +3,7 @@ title : IMdmDocumentation
 description: trifenix.connect.mdm.resources.IMdmDocumentation
 ---
 
-# IMdmDocumentation
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

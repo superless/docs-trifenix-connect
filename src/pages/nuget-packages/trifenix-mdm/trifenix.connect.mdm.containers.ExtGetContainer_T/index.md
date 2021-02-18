@@ -3,17 +3,17 @@ title : ExtGetContainer_T
 description: trifenix.connect.mdm.containers.ExtGetContainer`1
 ---
 
-# ExtGetContainer<T>
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
-ExtGetContainer<T>
+ExtGetContainer_T
 ```
 
 ## Descripción
-Contenedor para respuestas get
+Contenedor para respuestas get.
 ## Constructores
 
 no existen constructores

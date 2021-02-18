@@ -3,7 +3,7 @@ title : EntityIndexRelatedPropertyAttribute
 description: trifenix.connect.mdm_attributes.EntityIndexRelatedPropertyAttribute
 ---
 
-# EntityIndexRelatedPropertyAttribute
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

@@ -3,7 +3,7 @@ title : IRelatedId
 description: trifenix.connect.mdm.entity_model.IRelatedId
 ---
 
-# IRelatedId
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 

@@ -3,13 +3,13 @@ title : ExtPostErrorContainer_T
 description: trifenix.connect.mdm.containers.ExtPostErrorContainer`1
 ---
 
-# ExtPostErrorContainer<T>
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
 #### Clase
 ```
-ExtPostErrorContainer<T>
+ExtPostErrorContainer_T
 ```
 
 ## Descripción
