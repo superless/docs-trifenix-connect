@@ -51,7 +51,7 @@ Funcion encargada mostrar mensaje especifico
 ```
 
 
-Funcion encargada mostrar mensaje especifico
+Funcion encargada mostrar mensaje especifico.
 ### Parametros
 | Nombre | Tipo | Descripción |
 | ------ | ---- | ----------- |
