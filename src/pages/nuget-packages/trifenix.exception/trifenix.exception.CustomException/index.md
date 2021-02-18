@@ -37,11 +37,11 @@ Este constructor no tiene parámetros.
 ```
 
 
-Funcion encargada mostrar mensaje especifico
+Funcion encargada mostrar mensaje especifico.
 ### Parametros
 | Nombre | Tipo | Descripción |
 | ------ | ---- | ----------- |
-| mensaje | [System.String](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.String 'System.String') | mensaje custom |
+| mensaje | [System.String](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.String 'System.String') | mensaje custom. |
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
