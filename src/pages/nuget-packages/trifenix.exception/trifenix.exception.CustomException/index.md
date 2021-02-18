@@ -3,7 +3,7 @@ title : CustomException
 description: trifenix.exception.CustomException
 ---
 
-# CustomException
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
@@ -25,7 +25,7 @@ Clase encargada de generar mensaje de excepcion
 ```
 
 
-Constructor de mensaje de excepcion
+Constructor de mensaje de excepcion.
 ### Parametetros
 Este constructor no tiene parámetros.
 
