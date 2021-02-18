@@ -3,7 +3,7 @@ title : CustomException
 description: trifenix.exception.CustomException
 ---
 
-
+# CustomException
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
