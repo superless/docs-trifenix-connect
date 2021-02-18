@@ -22,15 +22,13 @@ para active directory
 
 #### Clase
 ```
-#ctor(arguments)
+#ctor()
 ```
 
 
-utiliza los argumentos de active de cosmosdb
-### Parametros
-| Nombre | Tipo | Descripción |
-| ------ | ---- | ----------- |
-| arguments | [trifenix.connect.arguments.CosmosDbArguments](#T-trifenix-connect-arguments-CosmosDbArguments 'trifenix.connect.arguments.CosmosDbArguments') | ? no se porque se utiliza |
+Inicializa graph api
+### Parametetros
+Este constructor no tiene parámetros.
 
 ## Funciones
 
