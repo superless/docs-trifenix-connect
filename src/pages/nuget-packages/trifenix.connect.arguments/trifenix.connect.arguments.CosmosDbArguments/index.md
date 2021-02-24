@@ -55,6 +55,19 @@ NameDb
 
 
 Gets or sets the name of the cosmos database.
+
+<CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
+
+#### Clase
+```
+ContainersName
+```
+
+
+Gets or sets the Containers of the cosmos dataBase.
+`
+            List of containers
+            `
 ## Constantes
 no existen campos
 
