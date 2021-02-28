@@ -3,7 +3,7 @@ title : MainSearch
 description: trifenix.connect.search.MainSearch
 ---
 
-# MainSearch
+
 
 <CodeBlock slots = 'heading, code' repeat = '1' languages = 'C#' />
 
